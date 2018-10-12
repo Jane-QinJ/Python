@@ -1,0 +1,5 @@
+filename = input('请输入文件名')
+context = input("请输入文件内容:")
+f = open(filename,'w')
+f.write(context)
+f.close()
