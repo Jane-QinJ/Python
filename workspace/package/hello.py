@@ -2,3 +2,4 @@
 #把一个hello.py的模块放进包里
 def hi():
     print('hello')
+hi()
